@@ -1,4 +1,4 @@
-This is a small mkv to mp4 converter procject.
+This is a small mkv to mp4 converter project.
 
 Today I needed to convert some mkv files to mp4, but all programs I found were garbage...
 so I made this application.
